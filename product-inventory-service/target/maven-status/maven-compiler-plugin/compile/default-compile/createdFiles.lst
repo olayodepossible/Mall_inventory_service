@@ -1,0 +1,12 @@
+com\possible\product\inventory\service\web\mappers\ProductInventoryMapperImpl.class
+com\possible\product\inventory\service\web\controllers\ProductInventoryController.class
+com\possible\product\inventory\service\web\mappers\ProductInventoryMapper.class
+com\possible\product\inventory\service\web\model\ProductInventoryDto$ProductInventoryDtoBuilder.class
+com\possible\product\inventory\service\domain\BaseEntity.class
+com\possible\product\inventory\service\web\mappers\DateMapper.class
+com\possible\product\inventory\service\web\model\ProductInventoryDto.class
+com\possible\product\inventory\service\domain\ProductInventory$ProductInventoryBuilder.class
+com\possible\product\inventory\service\bootstrap\ProductInventoryBootstrap.class
+com\possible\product\inventory\service\domain\ProductInventory.class
+com\possible\product\inventory\service\repositories\ProductInventoryRepository.class
+com\possible\product\inventory\service\ProductInventoryApplication.class
